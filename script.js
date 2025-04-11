@@ -1,0 +1,1 @@
+#! Preferí dejar los códigos de javascript dentro de cada archivo HTML, este archivo "script.js" se preparó para utilizar el año que viene
